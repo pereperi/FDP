@@ -17,4 +17,8 @@ scRNA_merge.R ------> Contains the full analysis of single-cell RNA-seq data fro
 
 PREPROCESSING:
 
-run_in_cluster_
+run_in_cluster_sc(...).sh ------> The scripts used to run the count pipeline from CellRanger for all of the samples.
+
+run_in_cluster_(...)-arc ------> The scripts used to run the count pipeline from CellRanger-ARC for all of the samples.
+
+
